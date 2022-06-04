@@ -2,12 +2,7 @@
   margin: 0;
   padding: 0;
 }
-.images {
-  display: flex;
-  justify-content: space-evenly;
-  padding: 50px 10px;
-  background-color: teal;
-}
+
 
 .sayt {
   width: 1440px;
